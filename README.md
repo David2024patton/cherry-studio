@@ -1,4 +1,4 @@
-<div align="right" >
+mit license<div align="right" >
   <details>
     <summary >🌐 Language</summary>
     <div>
