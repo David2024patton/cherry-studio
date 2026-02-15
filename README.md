@@ -305,21 +305,3 @@ Should you require a commercial license that provides an exemption from the AGPL
 [discord-link]: https://discord.gg/wez8HtpxqQ
 [telegram-shield]: https://img.shields.io/badge/Telegram-@CherryStudioAI-0088CC?logo=telegram
 [telegram-link]: https://t.me/CherryStudioAI
-
-<!-- Links & Images -->
-
-[github-release-shield]: https://img.shields.io/github/v/release/CherryHQ/cherry-studio?logo=github
-[github-release-link]: https://github.com/CherryHQ/cherry-studio/releases
-[github-nightly-shield]: https://img.shields.io/github/actions/workflow/status/CherryHQ/cherry-studio/nightly-build.yml?label=nightly%20build&logo=github
-[github-nightly-link]: https://github.com/CherryHQ/cherry-studio/actions/workflows/nightly-build.yml
-[github-contributors-shield]: https://img.shields.io/github/contributors/CherryHQ/cherry-studio?logo=github
-[github-contributors-link]: https://github.com/CherryHQ/cherry-studio/graphs/contributors
-
-<!-- Links & Images -->
-
-[license-shield]: https://img.shields.io/badge/License-AGPLv3-important.svg?logo=gnu
-[license-link]: https://www.gnu.org/licenses/agpl-3.0
-[commercial-shield]: https://img.shields.io/badge/License-Contact-white.svg?logoColor=white&logo=telegram&color=blue
-[commercial-link]: mailto:license@cherry-ai.com?subject=Commercial%20License%20Inquiry
-[sponsor-shield]: https://img.shields.io/badge/Sponsor-FF6699.svg?logo=githubsponsors&logoColor=white
-[sponsor-link]: https://github.com/CherryHQ/cherry-studio/blob/main/docs/sponsor.md
